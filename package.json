@@ -1,0 +1,19 @@
+{
+  "name": "@dburrows/data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dburrows/data.git"
+  },
+  "author": "David Burrows <david@designsuperbuild> (http://www.designsuperbuild.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dburrows/data/issues"
+  },
+  "homepage": "https://github.com/dburrows/data#readme"
+}
